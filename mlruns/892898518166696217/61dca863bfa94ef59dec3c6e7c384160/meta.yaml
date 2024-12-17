@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/JoseS/Documents/IOC/M03/EAC06/portcanto/mlruns/892898518166696217/61dca863bfa94ef59dec3c6e7c384160/artifacts
+deleted_time: 1734472714125
+end_time: 1734471652865
+entry_point_name: ''
+experiment_id: '892898518166696217'
+lifecycle_stage: deleted
+run_id: 61dca863bfa94ef59dec3c6e7c384160
+run_name: K=2
+run_uuid: 61dca863bfa94ef59dec3c6e7c384160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734471652655
+status: 4
+tags: []
+user_id: JoseS

@@ -1,0 +1,7 @@
+digest: db44b7d9
+name: dataset
+profile: '{"num_rows": 100, "num_elements": 200}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "SUBIDA (s)", "required":
+  true}, {"type": "double", "name": "BAJADA (s)", "required": true}]}'
+source: '{"uri": "./data/ciclistes.csv"}'
+source_type: local

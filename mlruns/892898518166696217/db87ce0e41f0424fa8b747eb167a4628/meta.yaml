@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/JoseS/Documents/IOC/M03/EAC06/portcanto/mlruns/892898518166696217/db87ce0e41f0424fa8b747eb167a4628/artifacts
+end_time: 1734472715334
+entry_point_name: ''
+experiment_id: '892898518166696217'
+lifecycle_stage: active
+run_id: db87ce0e41f0424fa8b747eb167a4628
+run_name: skittish-sloth-818
+run_uuid: db87ce0e41f0424fa8b747eb167a4628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734472715198
+status: 3
+tags: []
+user_id: JoseS
